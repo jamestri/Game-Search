@@ -1,0 +1,9 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.bar {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
