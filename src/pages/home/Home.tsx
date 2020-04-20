@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonTabBar, IonTabs, IonTabButton, IonRouterOutlet, IonLabel, IonIcon, IonTab, useIonViewDidEnter, IonButton } from '@ionic/react';
+import { IonContent, IonTitle, IonToolbar } from '@ionic/react';
 import React from 'react';
 import './Home.css';
 import GameList from '../../components/gamelist/gamelist';

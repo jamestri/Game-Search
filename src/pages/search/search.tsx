@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
-import { IonContent, IonSearchbar, IonHeader, IonToolbar, IonTitle, IonPage } from '@ionic/react';
-import { search } from 'ionicons/icons';
+import React from 'react';
+import { IonContent, IonSearchbar, IonToolbar, IonTitle, IonPage } from '@ionic/react';
 import GameList from '../../components/gamelist/gamelist';
 
 
